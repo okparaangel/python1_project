@@ -29,17 +29,17 @@ except ValueError:
 
      
 
-# file_name = "class-work/prj1.txt"
-# with open(project1.py, 'r') as file:
-#     a = f"{name} {c_d} {c_t}\n"
-#     file.write(a)
+file_name = "class-work/prj1.txt"
+with open(pythonprjy1.py, 'r') as file:
+    a = f"{name} {c_d} {c_t}\n"
+    file.write(a)
 
 
-# with open(project1.py, 'r') as file:
-#     print("\nContents of the file: ")
-#     for line in file:
-#             print(line.strip()) 
-    # find()        
+with open(pythonprj1.py, 'r') as file:
+    print("\nContents of the file: ")
+    for line in file:
+            print(line.strip()) 
+    # find()      
 
 #find("name", "c_d", "c_t")
     
